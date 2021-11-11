@@ -1,0 +1,25 @@
+body {
+    background-image: url("../images/backdrop.gif");
+}
+#logo{
+    width: 450px;
+    margin: 30px auto 20px auto;
+}
+p{
+    font-size: 110%;
+    text-align: center;
+    width: 600px;
+    margin: 30px auto 20px auto;
+    font-weight: bolder;
+    color: #4d2b08;
+}
+section article {
+    text-align: center;
+}
+section article  figure img{
+    border-style: solid;
+    border-color: #efe5c9;
+    border-width: 5px 5px 5px 5px ;
+}
+
+
